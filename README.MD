@@ -16,6 +16,7 @@
     </a>
 </div>
 <div align='center'>
+<h3>Языки программирования и технологии</>
 <img width='128' heigth='128' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
 <img width='128' heigth='128'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img  width='128' heigth='128' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
