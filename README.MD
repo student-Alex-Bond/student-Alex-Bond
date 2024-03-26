@@ -10,7 +10,7 @@
     </a>
  <a href="mailto:https://bondarenko.alex.work@gmail.com">
       <img
-        src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white"
         alt="email"
       />
     </a>
