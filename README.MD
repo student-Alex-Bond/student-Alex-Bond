@@ -31,3 +31,8 @@
 </div>
 <hr>
 </div>
+<ul>
+<li>Библиотека фильмов: </li>
+<li>Tod0 List: </li>
+<li>Booking: </li>
+</ul>
