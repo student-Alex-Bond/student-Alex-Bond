@@ -31,8 +31,9 @@
 </div>
 <hr>
 </div>
+<h3>Пет проекты</h3>
 <ul>
 <li>Библиотека фильмов: </li>
-<li>Tod0 List: </li>
+<li>Todo List: </li>
 <li>Booking: </li>
 </ul>
