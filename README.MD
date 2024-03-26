@@ -10,7 +10,7 @@
     </a>
  <a href="@AlexBond">
       <img
-        src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=mail&logoColor=white"
+        src="https://img.shields.io/badge/mmail-blue?style=for-the-badge&logo=gmail&logoColor=white"
         alt="email"
       />
     </a>
