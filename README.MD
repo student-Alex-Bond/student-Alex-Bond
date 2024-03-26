@@ -2,7 +2,7 @@
       <h1>Привет. Я Александр</h1>
       <h3>Фронтенд разботчик из Омска</h3>
     
- <a href="https://t.me.Bond-Alex">
+ <a href="https://t.me/BondAlex">
       <img
         src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
         alt="telegram"
