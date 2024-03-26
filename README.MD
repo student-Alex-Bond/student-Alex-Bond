@@ -4,7 +4,13 @@
     </div>
  <a href="@AlexBond">
       <img
-        src="https://img.shields.io/badge/Telegrm-blue?style=for-the-badge&logo=telegram&logoColor=white"
+        src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
         alt="telegram"
+      />
+    </a>
+ <a href="@AlexBond">
+      <img
+        src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=mail&logoColor=white"
+        alt="email"
       />
     </a>
