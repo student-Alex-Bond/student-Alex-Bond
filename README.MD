@@ -2,7 +2,7 @@
       <h1>Привет, я Александр, frontend разработчик, рад видеть тебя в моем GitHub :raised_hand_with_fingers_splayed:</h1>
     
 <hr>
-<h4>Мои контакты: </h4>
+<h2>Мои контакты: </h2>
  <a href="https://t.me/Bond_Alexandr">
       <img
         src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
@@ -17,10 +17,10 @@
     </a>
 </div>
 <div align='center'>
-<h4>Мой стэк техгологий: </h4>
+<h2>Мой стэк техгологий: </h2>
 <hr>
 <div>
-<img width='128' heigth='128' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width='64' heigth='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width='128' heigth='128' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width='128' heigth='128' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
 <img width='128' heigth='128'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -32,7 +32,7 @@
 </div>
 <hr>
 </div>
-<h3>Пет проекты</h3>
+<h2>Пет проекты</h2>
 <ul>
 <li>Библиотека фильмов: </li>
 <li>Todo List: </li>
