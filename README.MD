@@ -16,7 +16,7 @@
     </a>
 </div>
 <div align='center'>
-<h3>Языки программирования и технологии</>
+<h3>Языки программирования и инструменты</>
 <hr>
 <div>
 <img width='128' heigth='128' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
