@@ -1,7 +1,8 @@
 <div align="center">
       <h1>Привет, я Александр, frontend разработчик, рад видеть тебя в моем GitHub :raised_hand_with_fingers_splayed:</h1>
     
-    
+<hr>
+<h3>Мои контакты: </h3>
  <a href="https://t.me/Bond_Alexandr">
       <img
         src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
