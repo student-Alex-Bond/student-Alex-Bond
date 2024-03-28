@@ -1,6 +1,6 @@
 <div align="center">
-      <h1>Привет. Я Александр</h1>
-      <h3>Фронтенд разботчик из Омска</h3>
+      <h1>Привет, я Александр, frontend разработчик, рад видеть тебя в моем GitHub :raised_hand_with_fingers_splayed:</h1>
+    
     
  <a href="https://t.me/Bond_Alexandr">
       <img
