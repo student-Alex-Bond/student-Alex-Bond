@@ -1,7 +1,6 @@
 <div align="center">
       <h1>Привет, я Александр, frontend разработчик, рад видеть тебя в моем GitHub :raised_hand_with_fingers_splayed:</h1>
-    
-<hr>
+
 <h2>Мои контакты: </h2>
  <a href="https://t.me/Bond_Alexandr">
       <img
@@ -18,7 +17,7 @@
 </div>
 <div align='center'>
 <h2>Мой стэк техгологий: </h2>
-<hr>
+
 <div>
 <img width='64' heigth='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width='64' heigth='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -30,10 +29,10 @@
 <img width='64' heigth='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />
   <imgwidth='64' heigth='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </div>
-<hr>
+
 </div>
 <h2>Пет проекты</h2>
-<ul>
+<ul align='center'>
 <li>Библиотека фильмов: </li>
 <li>Todo List: </li>
 <li>Booking: </li>
