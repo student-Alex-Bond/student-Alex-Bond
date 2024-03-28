@@ -17,7 +17,8 @@
     </a>
 </div>
 <div align='center'>
-<h3>Языки программирования и инструменты</>
+<h3>Мой стэк техгологий: 
+</>
 <hr>
 <div>
 <img width='128' heigth='128' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
