@@ -34,5 +34,6 @@
 <h2>Пет проекты</h2>
 <ul>
 <li>Приложение для создания твоей персональной библиотеки фильмов: https://student-alex-bond.github.io/lib-film/#</li>
+<li>TodoList: https://github.com/student-Alex-Bond/it-incubator-todolist</li>
 </ul>
 <hr>
